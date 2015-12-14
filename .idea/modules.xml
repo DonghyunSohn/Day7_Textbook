@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day7.iml" filepath="$PROJECT_DIR$/Day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p275/p275.iml" filepath="$PROJECT_DIR$/p275/p275.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p279/p279.iml" filepath="$PROJECT_DIR$/p279/p279.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p280/p280.iml" filepath="$PROJECT_DIR$/p280/p280.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p282/p282.iml" filepath="$PROJECT_DIR$/p282/p282.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p286/p286.iml" filepath="$PROJECT_DIR$/p286/p286.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p292/p292.iml" filepath="$PROJECT_DIR$/p292/p292.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p295/p295.iml" filepath="$PROJECT_DIR$/p295/p295.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p300/p300.iml" filepath="$PROJECT_DIR$/p300/p300.iml" />
+    </modules>
+  </component>
+</project>
